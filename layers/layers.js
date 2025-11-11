@@ -24,7 +24,7 @@ var lyr_GoldiTerritory_1 = new ol.layer.Vector({
                 style: style_GoldiTerritory_1,
                 popuplayertitle: 'GSCT Territory',
                 interactive: false,
-                title: '<img src="styles/legend/GoldiTerritory_1.png" /> Goldi Territory'
+                title: '<img src="styles/legend/GoldiTerritory_1.png" /> GSCT Territory'
             });
 var format_CountyBoundary_2 = new ol.format.GeoJSON();
 var features_CountyBoundary_2 = format_CountyBoundary_2.readFeatures(json_CountyBoundary_2, 
