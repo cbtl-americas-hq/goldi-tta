@@ -22,7 +22,7 @@ var lyr_GoldiTerritory_1 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_GoldiTerritory_1, 
                 style: style_GoldiTerritory_1,
-                popuplayertitle: 'Goldi Territory',
+                popuplayertitle: 'GSCT Territory',
                 interactive: false,
                 title: '<img src="styles/legend/GoldiTerritory_1.png" /> Goldi Territory'
             });
